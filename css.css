@@ -152,8 +152,6 @@ nav ul li:hover ul {
 
   height: 65px;
 
-overflow: hidden;
-
 }
 .right {
 
@@ -185,6 +183,6 @@ color: purple;
 
   width: 140%;
 
-margin-left: 65px;
+margin-left: 15px;
 
 }
