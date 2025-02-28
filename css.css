@@ -148,9 +148,9 @@ nav ul li:hover ul {
 }
 #frameset {
 
-  width: 49%;
+  width: 145%;
 
-  height: 300px;
+  height: 10px;
 
 overflow: hidden;
 
@@ -159,7 +159,7 @@ overflow: hidden;
 
   float:left;
 
-  width:50%;
+  width:49%;
 
   height: 300px;
 
@@ -179,12 +179,12 @@ overflow: hidden;
 }
 footer {
 
-background: snow;
+background: pink;
 
-color: darkcyan;
+color: purple;
 
-  width: 52%;
+  width: 145%;
 
-  height: 300px;
+  height: 10px;
 
 }
