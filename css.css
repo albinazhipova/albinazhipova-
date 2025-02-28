@@ -46,7 +46,7 @@ nav ul li {
 
   padding: 1em 3em;
 
-  background: blue; 
+  background: pink; 
 
   -webkit-transition: all 0.2s;
 
@@ -77,12 +77,12 @@ nav li a {
 
       font-family: Consolas, monaco, monospace;
 
-      color: darkseagreen; 
+      color: purple; 
 
 }
 nav ul li:hover {
 
-  background-color: darkcyan;
+  background-color: pink;
 
 }
 nav ul li ul {
@@ -122,18 +122,18 @@ nav ul li ul {
 }
 nav ul li ul li { 
 
-  background-color: skyblue;
+  background-color: green;
 
   display: block; 
 
-  color: #ffffff;
+  color: #fdd9b5;
 
   text-shadow: 0 1px 0 #000; 
 
 }
 nav ul li ul li:hover { 
 
-background-color: steelblue;
+background-color: orange;
 
 }
 
@@ -163,18 +163,18 @@ overflow: hidden;
 
   height: 300px;
 
-  background:steelblue;
+  background:orange;
 
 }
 .left {
 
   float:left;
 
-  width:51%;
+  width:50%;
 
   height: 300px;
 
-  background:blue;
+  background:orange;
 
 }
 footer {
