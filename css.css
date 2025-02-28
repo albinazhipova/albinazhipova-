@@ -148,9 +148,9 @@ nav ul li:hover ul {
 }
 #frameset {
 
-  width: 145%;
+  width: 139%;
 
-  height: 10px;
+  height: 65px;
 
 overflow: hidden;
 
@@ -183,8 +183,8 @@ background: pink;
 
 color: purple;
 
-  width: 145%;
+  width: 138%;
 
-  height: 10px;
+  margin-left: 65px;
 
 }
